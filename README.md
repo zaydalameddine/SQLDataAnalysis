@@ -1,4 +1,4 @@
-# SQLDataAnalysis
+# [SQLDataAnalysis]
 
 This code shows queries made to a regional database. Three different mini-projects are displayed in this repository. Data is downloaded from public resources and is manipulated with different purposes in mind. The three projects are listed below with a short description
 
