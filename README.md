@@ -1,6 +1,6 @@
 # SQLDataAnalysis
 
-This code shows queries made to a regional database. Three different mini-projects are displayed in this repository. Data is downloaded from public resources and is manipulated with different purposes in mind. The three projects are listed below with a short description
+This code shows queries made to a regional database. Three different mini-projects are displayed in this repository with their respective folders. In each folder you will find the .csv(Comma Separated Values) file, the database file, and the a text file holding my queries Data is downloaded from public resources and is manipulated with different purposes in mind. The three projects are listed below with a short description.
 
 ## 1. File: Warby_Parker 
 Analyzed Warby Parker’s marketing funnel from Quiz → Home Try-On → Purchase in order to calculate conversion rates.
