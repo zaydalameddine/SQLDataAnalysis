@@ -12,4 +12,4 @@ Analyzed user churn for two groups of an arbitrary Saas (Software as a service) 
 
 ## 3. File: CoolTShirts.sql
 
-Using touch attribution, map their customers’ journey: from initial visit to purchase in order to improve their marketing campaigns.
+Using touch attribution, I mapped their customers’ journey: from initial visit to purchase in order to improve their marketing campaigns.
